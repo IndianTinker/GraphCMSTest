@@ -1,0 +1,16 @@
+[
+  {
+    "name": "post-slug",
+    "path": "/post/:slug?",
+    "component": "/Users/rohitgupta/Documents/with-nuxtjs/pages/post/_slug.vue",
+    "chunkName": "pages/post/_slug",
+    "_name": "_43c9f667"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/rohitgupta/Documents/with-nuxtjs/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_47d499f6"
+  }
+]
